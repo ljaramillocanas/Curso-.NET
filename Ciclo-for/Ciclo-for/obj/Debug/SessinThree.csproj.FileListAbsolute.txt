@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\SessinThree\SessinThree\bin\Debug\SessinThree.exe.config
+F:\CURSO .NET\Repos\SessinThree\SessinThree\bin\Debug\SessinThree.exe
+F:\CURSO .NET\Repos\SessinThree\SessinThree\bin\Debug\SessinThree.pdb
+F:\CURSO .NET\Repos\SessinThree\SessinThree\obj\Debug\SessinThree.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\SessinThree\SessinThree\obj\Debug\SessinThree.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\SessinThree\SessinThree\obj\Debug\SessinThree.exe
+F:\CURSO .NET\Repos\SessinThree\SessinThree\obj\Debug\SessinThree.pdb
