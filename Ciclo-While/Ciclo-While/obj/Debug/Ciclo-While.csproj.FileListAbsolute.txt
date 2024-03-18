@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\Ciclo-While\Ciclo-While\bin\Debug\Ciclo-While.exe.config
+F:\CURSO .NET\Repos\Ciclo-While\Ciclo-While\bin\Debug\Ciclo-While.exe
+F:\CURSO .NET\Repos\Ciclo-While\Ciclo-While\bin\Debug\Ciclo-While.pdb
+F:\CURSO .NET\Repos\Ciclo-While\Ciclo-While\obj\Debug\Ciclo-While.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\Ciclo-While\Ciclo-While\obj\Debug\Ciclo-While.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\Ciclo-While\Ciclo-While\obj\Debug\Ciclo-While.exe
+F:\CURSO .NET\Repos\Ciclo-While\Ciclo-While\obj\Debug\Ciclo-While.pdb
