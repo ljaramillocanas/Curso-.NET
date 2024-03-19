@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-CalculadorNumerosPrimos", "Task-CalculadorNumerosPrimos\Task-CalculadorNumerosPrimos.csproj", "{891D5AD3-1ACF-414D-8B0C-0C6607EE28C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{891D5AD3-1ACF-414D-8B0C-0C6607EE28C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891D5AD3-1ACF-414D-8B0C-0C6607EE28C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891D5AD3-1ACF-414D-8B0C-0C6607EE28C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891D5AD3-1ACF-414D-8B0C-0C6607EE28C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B25058-F918-4407-B4E1-C0568505C9D5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\Task-CalculadorNumerosPrimos\Task-CalculadorNumerosPrimos\bin\Debug\Task-CalculadorNumerosPrimos.exe.config
+F:\CURSO .NET\Repos\Task-CalculadorNumerosPrimos\Task-CalculadorNumerosPrimos\bin\Debug\Task-CalculadorNumerosPrimos.exe
+F:\CURSO .NET\Repos\Task-CalculadorNumerosPrimos\Task-CalculadorNumerosPrimos\bin\Debug\Task-CalculadorNumerosPrimos.pdb
+F:\CURSO .NET\Repos\Task-CalculadorNumerosPrimos\Task-CalculadorNumerosPrimos\obj\Debug\Task-CalculadorNumerosPrimos.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\Task-CalculadorNumerosPrimos\Task-CalculadorNumerosPrimos\obj\Debug\Task-CalculadorNumerosPrimos.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\Task-CalculadorNumerosPrimos\Task-CalculadorNumerosPrimos\obj\Debug\Task-CalculadorNumerosPrimos.exe
+F:\CURSO .NET\Repos\Task-CalculadorNumerosPrimos\Task-CalculadorNumerosPrimos\obj\Debug\Task-CalculadorNumerosPrimos.pdb
