@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\Ciclos-anidados\Ciclos-anidados\bin\Debug\Ciclos-anidados.exe.config
+F:\CURSO .NET\Repos\Ciclos-anidados\Ciclos-anidados\bin\Debug\Ciclos-anidados.exe
+F:\CURSO .NET\Repos\Ciclos-anidados\Ciclos-anidados\bin\Debug\Ciclos-anidados.pdb
+F:\CURSO .NET\Repos\Ciclos-anidados\Ciclos-anidados\obj\Debug\Ciclos-anidados.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\Ciclos-anidados\Ciclos-anidados\obj\Debug\Ciclos-anidados.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\Ciclos-anidados\Ciclos-anidados\obj\Debug\Ciclos-anidados.exe
+F:\CURSO .NET\Repos\Ciclos-anidados\Ciclos-anidados\obj\Debug\Ciclos-anidados.pdb
