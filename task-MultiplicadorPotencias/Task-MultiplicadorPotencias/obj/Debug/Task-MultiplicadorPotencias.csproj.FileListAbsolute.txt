@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\Task-MultiplicadorPotencias\Task-MultiplicadorPotencias\bin\Debug\Task-MultiplicadorPotencias.exe.config
+F:\CURSO .NET\Repos\Task-MultiplicadorPotencias\Task-MultiplicadorPotencias\bin\Debug\Task-MultiplicadorPotencias.exe
+F:\CURSO .NET\Repos\Task-MultiplicadorPotencias\Task-MultiplicadorPotencias\bin\Debug\Task-MultiplicadorPotencias.pdb
+F:\CURSO .NET\Repos\Task-MultiplicadorPotencias\Task-MultiplicadorPotencias\obj\Debug\Task-MultiplicadorPotencias.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\Task-MultiplicadorPotencias\Task-MultiplicadorPotencias\obj\Debug\Task-MultiplicadorPotencias.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\Task-MultiplicadorPotencias\Task-MultiplicadorPotencias\obj\Debug\Task-MultiplicadorPotencias.exe
+F:\CURSO .NET\Repos\Task-MultiplicadorPotencias\Task-MultiplicadorPotencias\obj\Debug\Task-MultiplicadorPotencias.pdb
