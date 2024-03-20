@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\Matrices\Matrices\bin\Debug\Matrices.exe.config
+F:\CURSO .NET\Repos\Matrices\Matrices\bin\Debug\Matrices.exe
+F:\CURSO .NET\Repos\Matrices\Matrices\bin\Debug\Matrices.pdb
+F:\CURSO .NET\Repos\Matrices\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\Matrices\Matrices\obj\Debug\Matrices.exe
+F:\CURSO .NET\Repos\Matrices\Matrices\obj\Debug\Matrices.pdb
