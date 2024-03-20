@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\Metodos\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\Metodos\Metodos\bin\Debug\Metodos.exe.config
+F:\CURSO .NET\Repos\Metodos\Metodos\bin\Debug\Metodos.exe
+F:\CURSO .NET\Repos\Metodos\Metodos\bin\Debug\Metodos.pdb
+F:\CURSO .NET\Repos\Metodos\Metodos\obj\Debug\Metodos.exe
+F:\CURSO .NET\Repos\Metodos\Metodos\obj\Debug\Metodos.pdb
