@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\PracticeMetodos\PracticeMetodos\obj\Debug\PracticeMetodos.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\PracticeMetodos\PracticeMetodos\obj\Debug\PracticeMetodos.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\PracticeMetodos\PracticeMetodos\bin\Debug\PracticeMetodos.exe.config
+F:\CURSO .NET\Repos\PracticeMetodos\PracticeMetodos\bin\Debug\PracticeMetodos.exe
+F:\CURSO .NET\Repos\PracticeMetodos\PracticeMetodos\bin\Debug\PracticeMetodos.pdb
+F:\CURSO .NET\Repos\PracticeMetodos\PracticeMetodos\obj\Debug\PracticeMetodos.exe
+F:\CURSO .NET\Repos\PracticeMetodos\PracticeMetodos\obj\Debug\PracticeMetodos.pdb

@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\Tupla\Tupla\bin\Debug\Tupla.exe.config
+F:\CURSO .NET\Repos\Tupla\Tupla\bin\Debug\Tupla.exe
+F:\CURSO .NET\Repos\Tupla\Tupla\bin\Debug\Tupla.pdb
+F:\CURSO .NET\Repos\Tupla\Tupla\obj\Debug\Tupla.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\Tupla\Tupla\obj\Debug\Tupla.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\Tupla\Tupla\obj\Debug\Tupla.exe
+F:\CURSO .NET\Repos\Tupla\Tupla\obj\Debug\Tupla.pdb

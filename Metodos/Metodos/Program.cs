@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Timers;
 
 namespace Metodos
 {
@@ -13,6 +14,7 @@ namespace Metodos
             byte opcion;
             decimal r; //almacena el valor del metodo restar
             decimal num1Ar, num2Ar; //almacena datos para enviar a metodo multiplicar y dividir
+            (decimal num1, decimal num2, decimal resultado) numeros; // declaramos tupla
 
             
 
@@ -33,8 +35,9 @@ namespace Metodos
                     Suma();
                     break;
                 case 2:
-                    r=resta();
-                    
+                    numeros=resta(); // se asigna tupla a la resta por medio de return
+                    Console.WriteLine("{0} - {1} = {2}", numeros.num1, numeros.num2, numeros.resultado); // se muestran datos con tupla
+
                     break;
                 case 3:
                     num1Ar = numero("Ingresa el primer número");
@@ -66,7 +69,7 @@ namespace Metodos
         }
 
         //Metodo que no devuelve  tipo sin parametros
-        static decimal resta ()
+        static (decimal,decimal,decimal) resta ()
         {
             decimal num1, num2, resultado;
             Console.WriteLine("Ingresa el primer número");
@@ -75,8 +78,9 @@ namespace Metodos
             num2 = Convert.ToDecimal(Console.ReadLine());
 
             resultado = num1 - num2;
-            Console.WriteLine("{0} - {1} = {2}", num1, num2, resultado);
-            return resultado;
+            
+            //devolvemos multiples tipos al autor de llamado
+            return (num1,num2,resultado);
         }
 
         //Metodo que no devuelve  tipo pero si parametros
