@@ -1,11 +1,31 @@
-# Calculador .net
+# Calculadora de .NET
 
-Aplicativo de connsola el cual nos permite : <br>
-Calcular área y perimetro del rectangulo <br>
-Calcular  perimetro de un poligono regular (Hexagono o pentagono) <br>
-pasar de grado celcius a grados Farenheit <br>
+## Descripción
+Este programa en C# implementa una calculadora con diferentes funciones, como calcular el área y perímetro de un rectángulo, calcular el perímetro de un polígono regular y convertir grados Celsius a grados Fahrenheit.
 
-Solo se requiere clonar repo y ejecutar. <br>
-<br>
+## Contenido del Archivo
+- `Program.cs`: Contiene el código fuente de la calculadora implementada en C#.
 
-![image](https://github.com/ljaramillocanas/Calculador_.net/assets/101465088/c3766c77-a57e-4c73-9cf1-d09d9b535d07)
+## Instrucciones de Uso
+1. Clona este repositorio en tu máquina local.
+2. Abre el proyecto en tu entorno de desarrollo de .NET (como Visual Studio).
+3. Abre el archivo `Program.cs` para ver el código fuente.
+4. Ejecuta la aplicación para probar la calculadora.
+
+## Funcionalidades
+El programa ofrece las siguientes funcionalidades:
+
+1. **Calcular área y perímetro del rectángulo**
+   - Solicita al usuario la altura y el ancho del rectángulo y muestra el área y el perímetro.
+
+2. **Calcular perímetro de un polígono regular**
+   - Permite al usuario seleccionar entre calcular el perímetro de un pentágono o un hexágono, solicitando la longitud de un lado y mostrando el perímetro correspondiente.
+
+3. **Convertir grados Celsius a grados Fahrenheit**
+   - Solicita al usuario los grados Celsius y muestra la equivalencia en grados Fahrenheit.
+
+## Ejemplo de Uso
+Al ejecutar la aplicación, el usuario podrá seleccionar una de las tres opciones disponibles para realizar un cálculo específico.
+
+## Notas
+- Este programa fue creado como parte de un ejercicio de aprendizaje en el contexto del desarrollo en .NET.
