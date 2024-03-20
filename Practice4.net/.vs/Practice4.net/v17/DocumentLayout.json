@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CURSO .NET\\Repos\\Practice4.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38417F0B-9F1A-42FD-9533-4AEE071B73E1}|Practice4.net\\Practice4.net.csproj|f:\\curso .net\\repos\\practice4.net\\practice4.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38417F0B-9F1A-42FD-9533-4AEE071B73E1}|Practice4.net\\Practice4.net.csproj|solutionrelative:practice4.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CURSO .NET\\Repos\\Practice4.net\\Practice4.net\\Program.cs",
+              "RelativeDocumentMoniker": "Practice4.net\\Program.cs",
+              "ToolTip": "F:\\CURSO .NET\\Repos\\Practice4.net\\Practice4.net\\Program.cs",
+              "RelativeToolTip": "Practice4.net\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:49:37.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

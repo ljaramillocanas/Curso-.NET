@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\Practice4.net\Practice4.net\bin\Debug\Practice4.net.exe.config
+F:\CURSO .NET\Repos\Practice4.net\Practice4.net\bin\Debug\Practice4.net.exe
+F:\CURSO .NET\Repos\Practice4.net\Practice4.net\bin\Debug\Practice4.net.pdb
+F:\CURSO .NET\Repos\Practice4.net\Practice4.net\obj\Debug\Practice4.net.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\Practice4.net\Practice4.net\obj\Debug\Practice4.net.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\Practice4.net\Practice4.net\obj\Debug\Practice4.net.exe
+F:\CURSO .NET\Repos\Practice4.net\Practice4.net\obj\Debug\Practice4.net.pdb

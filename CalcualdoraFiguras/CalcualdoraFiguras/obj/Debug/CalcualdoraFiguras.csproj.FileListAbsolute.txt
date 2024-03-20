@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\CalcualdoraFiguras\CalcualdoraFiguras\bin\Debug\CalcualdoraFiguras.exe.config
+F:\CURSO .NET\Repos\CalcualdoraFiguras\CalcualdoraFiguras\bin\Debug\CalcualdoraFiguras.exe
+F:\CURSO .NET\Repos\CalcualdoraFiguras\CalcualdoraFiguras\bin\Debug\CalcualdoraFiguras.pdb
+F:\CURSO .NET\Repos\CalcualdoraFiguras\CalcualdoraFiguras\obj\Debug\CalcualdoraFiguras.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\CalcualdoraFiguras\CalcualdoraFiguras\obj\Debug\CalcualdoraFiguras.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\CalcualdoraFiguras\CalcualdoraFiguras\obj\Debug\CalcualdoraFiguras.exe
+F:\CURSO .NET\Repos\CalcualdoraFiguras\CalcualdoraFiguras\obj\Debug\CalcualdoraFiguras.pdb
