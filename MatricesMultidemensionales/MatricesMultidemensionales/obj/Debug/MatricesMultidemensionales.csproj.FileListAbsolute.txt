@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\MatricesMultidemensionales\MatricesMultidemensionales\bin\Debug\MatricesMultidemensionales.exe.config
+F:\CURSO .NET\Repos\MatricesMultidemensionales\MatricesMultidemensionales\bin\Debug\MatricesMultidemensionales.exe
+F:\CURSO .NET\Repos\MatricesMultidemensionales\MatricesMultidemensionales\bin\Debug\MatricesMultidemensionales.pdb
+F:\CURSO .NET\Repos\MatricesMultidemensionales\MatricesMultidemensionales\obj\Debug\MatricesMultidemensionales.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\MatricesMultidemensionales\MatricesMultidemensionales\obj\Debug\MatricesMultidemensionales.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\MatricesMultidemensionales\MatricesMultidemensionales\obj\Debug\MatricesMultidemensionales.exe
+F:\CURSO .NET\Repos\MatricesMultidemensionales\MatricesMultidemensionales\obj\Debug\MatricesMultidemensionales.pdb
