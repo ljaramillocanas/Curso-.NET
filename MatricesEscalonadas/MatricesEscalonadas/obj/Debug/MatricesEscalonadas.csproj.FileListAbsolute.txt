@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\MatricesEscalonadas\MatricesEscalonadas\bin\Debug\MatricesEscalonadas.exe.config
+F:\CURSO .NET\Repos\MatricesEscalonadas\MatricesEscalonadas\bin\Debug\MatricesEscalonadas.exe
+F:\CURSO .NET\Repos\MatricesEscalonadas\MatricesEscalonadas\bin\Debug\MatricesEscalonadas.pdb
+F:\CURSO .NET\Repos\MatricesEscalonadas\MatricesEscalonadas\obj\Debug\MatricesEscalonadas.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\MatricesEscalonadas\MatricesEscalonadas\obj\Debug\MatricesEscalonadas.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\MatricesEscalonadas\MatricesEscalonadas\obj\Debug\MatricesEscalonadas.exe
+F:\CURSO .NET\Repos\MatricesEscalonadas\MatricesEscalonadas\obj\Debug\MatricesEscalonadas.pdb
