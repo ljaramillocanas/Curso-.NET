@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\MetodosMatrices\MetodosMatrices\bin\Debug\MetodosMatrices.exe.config
+F:\CURSO .NET\Repos\MetodosMatrices\MetodosMatrices\bin\Debug\MetodosMatrices.exe
+F:\CURSO .NET\Repos\MetodosMatrices\MetodosMatrices\bin\Debug\MetodosMatrices.pdb
+F:\CURSO .NET\Repos\MetodosMatrices\MetodosMatrices\obj\Debug\MetodosMatrices.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\MetodosMatrices\MetodosMatrices\obj\Debug\MetodosMatrices.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\MetodosMatrices\MetodosMatrices\obj\Debug\MetodosMatrices.exe
+F:\CURSO .NET\Repos\MetodosMatrices\MetodosMatrices\obj\Debug\MetodosMatrices.pdb
