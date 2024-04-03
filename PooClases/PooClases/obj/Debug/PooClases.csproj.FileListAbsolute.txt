@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\PooClases\PooClases\bin\Debug\PooClases.exe.config
+F:\CURSO .NET\Repos\PooClases\PooClases\bin\Debug\PooClases.exe
+F:\CURSO .NET\Repos\PooClases\PooClases\bin\Debug\PooClases.pdb
+F:\CURSO .NET\Repos\PooClases\PooClases\obj\Debug\PooClases.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\PooClases\PooClases\obj\Debug\PooClases.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\PooClases\PooClases\obj\Debug\PooClases.exe
+F:\CURSO .NET\Repos\PooClases\PooClases\obj\Debug\PooClases.pdb
