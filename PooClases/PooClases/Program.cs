@@ -21,39 +21,71 @@ namespace PooClases
             if(sel == 1) { 
 
                 Motocicleta cuatrimoto = new Motocicleta();
-                cuatrimoto.año = 2025;
-                cuatrimoto.llantas = 4;
-                cuatrimoto.combustible = "ACP";
-                Console.WriteLine("*** CUATRIMOTO *** ");
-                Console.WriteLine("El modelo de la cuatrimoto es : {0}", cuatrimoto.año);
-                Console.WriteLine("El combustible de la cuatrimoto es : {0}", cuatrimoto.combustible);
-                cuatrimoto.frenar();
-                Console.WriteLine("La cantidad de llantas del VH : {0}", cuatrimoto.llantas);
+                cuatrimoto.Año = "2025";
+                cuatrimoto.Llantas = 4;
+                cuatrimoto.Combustible = "ACPM";
+                cuatrimoto.NumPuertas = "N/A";
+                cuatrimoto.CCmotor = 1600;
+                cuatrimoto.Color = "Rojo";
+                
+                Console.WriteLine(cuatrimoto.ToString());
             }
             if (sel == 2 ) {  
                 Motocicleta Enduro = new Motocicleta();
-                Enduro.año = 2024;
-                Enduro.llantas = 2;
-                Enduro.combustible = "Extra";
-            
-                Console.WriteLine("*** ENDURO *** ");
-                Enduro.acelar();
-                Console.WriteLine("El modelo de la enduro  es : {0}", Enduro.año);
-                Console.WriteLine("El combustible de la enduro es : {0}", Enduro.combustible);
-                Console.WriteLine("La cantidad de llantas de la enduro  es : {0}", Enduro.llantas);
+                Enduro.Año = "2024";
+                Enduro.Llantas = 2;
+                Enduro.Combustible = "Extra";
+                Enduro.NumPuertas = "N/A";
+                Enduro.CCmotor = 100;
+                Enduro.Color = "Blanco Perla";
+                Console.WriteLine(Enduro.ToString());
+
             }
+           
         }
         
     }
-    
-    
+
+
     // Se crea clase Motocicleta
     public class Motocicleta
     {
         //Campos
-        public string color, modelo, combustible;
-        public int año, numPuertas, ccMotor, llantas;
-       
+        private string color, combustible, año, numPuertas;
+        private int ccMotor, llantas;
+
+        public string Año
+        {
+            get => año;
+            set => año = value;
+        }
+        public int Llantas
+        {
+            get { return llantas; }
+            set { llantas = value; }
+            
+        }
+        public string Combustible
+        {
+            get { return combustible; }
+            set { combustible = value; }
+        }
+        public string Color
+        {
+            get => color;
+            set => color = value;
+        }
+        public string NumPuertas
+        {
+            get => numPuertas;
+            set => numPuertas = value;
+        }
+        public int CCmotor
+        {
+            get { return ccMotor; }
+            set { ccMotor = value; }
+        }
+
         //Métodos
 
         public bool acelar()
@@ -78,6 +110,13 @@ namespace PooClases
         {
             velocidadesPa++;
             Console.WriteLine("Cambiando la velocidad");
+        }
+       
+        //invalidando el metodo ToString
+        public override string ToString()
+        { 
+           string mensaje = "[Modelo : " + año + "] [Color : " + color + "] [Puertas : "+ numPuertas + "] [Combustible : "+ combustible + "] [Llantas : "+llantas  +"]";
+            return mensaje;
         }
 
     }
