@@ -1,0 +1,22 @@
+<mxfile host="Electron" modified="2024-04-04T01:52:25.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="9QeMIGnQ4gEAVgCD8Mwq" version="24.1.0" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2049" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="xz0dG43Nw81ZdMH9ekGy-5" value="Automovil&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=7;shadow=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="250" width="320" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xz0dG43Nw81ZdMH9ekGy-6" value="+ color: string&lt;div&gt;+ numPuertas: byte&lt;/div&gt;&lt;div&gt;+ combustible: string&lt;/div&gt;&lt;div&gt;+ ccMotor : int&lt;/div&gt;&lt;div&gt;+ año: byte&lt;/div&gt;&lt;div&gt;+ modelo : string&lt;/div&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;strokeWidth=7;shadow=0;fontSize=18;" vertex="1" parent="xz0dG43Nw81ZdMH9ekGy-5">
+          <mxGeometry y="26" width="320" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="xz0dG43Nw81ZdMH9ekGy-7" value="" style="line;strokeWidth=7;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;shadow=0;fontSize=18;" vertex="1" parent="xz0dG43Nw81ZdMH9ekGy-5">
+          <mxGeometry y="160" width="320" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="xz0dG43Nw81ZdMH9ekGy-8" value="+ Acelerar(): bool&lt;div&gt;+ Frenar(): bool&lt;/div&gt;&lt;div&gt;+ Seguros(): bool&lt;/div&gt;&lt;div&gt;+ Luces(): bool&lt;/div&gt;&lt;div&gt;+ Velocidades (ref byte): void&lt;/div&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;strokeWidth=7;shadow=0;fontSize=18;" vertex="1" parent="xz0dG43Nw81ZdMH9ekGy-5">
+          <mxGeometry y="168" width="320" height="132" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
