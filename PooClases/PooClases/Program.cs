@@ -19,7 +19,7 @@ namespace PooClases
             string nombre = Console.ReadLine();
             Console.WriteLine("Ingrese su primer apellido");
             string apellido = Console.ReadLine();
-            String NombreC = motocicleta.Concatenar(nombre, apellido);
+            string NombreC = motocicleta.Concatenar(nombre, apellido);
             Console.WriteLine("Sr.(a) {0} Ingrese el VH que dese consultar",NombreC);
             Console.WriteLine("1. Cuatrimoto");
             Console.WriteLine("2. Enduro ");
@@ -63,7 +63,7 @@ namespace PooClases
     {
         //Campos
         private string color, combustible, año, numPuertas;
-        private int ccMotor, llantas, nPasajeros;
+        private int ccMotor, llantas, nPasajeros, nRegistro;
         private bool cajuela;
         public bool Cajuela
         {
@@ -132,16 +132,18 @@ namespace PooClases
         //Contructor de la clase
         public Motocicleta()
         {
-
+            //Se crea metodo ramdom y se inicializa con sobre carga
+            Random ramdom = new Random();  
             nPasajeros = 2;
             cajuela = false;
+            nRegistro= ramdom.Next(1992,2000);
 
         }
 
         //invalidando el metodo ToString
         public override string ToString()
         { 
-           string mensaje = "[Modelo : " + año + "] [Color : " + color + "] [Puertas : "+ numPuertas + "] "+ "\n[Combustible : "+ combustible + "] [Llantas : "+llantas  +"] [cajuela: " + cajuela +"]" ;
+           string mensaje = "[Modelo : " + año + "] [Color : " + color + "] [Puertas : "+ numPuertas + "] "+ "\n[Combustible : "+ combustible + "] [Llantas : "+llantas  +"] [cajuela: " + cajuela +"]" + "\n[pasajeros : " + nPasajeros + "]" + "[Número del registro : " + nRegistro +"]";
             return mensaje;
         }
 
