@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\CURSO .NET\\Repos\\PooClases\\",
+  "WorkspaceRootPath": "F:\\CURSO .NET\\Repos\\SystemBank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8727A696-413E-4B71-A136-80E7A004A59E}|PooClases\\PooClases.csproj|f:\\curso .net\\repos\\pooclases\\pooclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8727A696-413E-4B71-A136-80E7A004A59E}|PooClases\\PooClases.csproj|solutionrelative:pooclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6057CF0C-F0AD-41EE-B4B3-7C6E847E6E01}|SystemBank\\SystemBank.csproj|f:\\curso .net\\repos\\systembank\\systembank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6057CF0C-F0AD-41EE-B4B3-7C6E847E6E01}|SystemBank\\SystemBank.csproj|solutionrelative:systembank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\CURSO .NET\\Repos\\PooClases\\PooClases\\Program.cs",
-              "RelativeDocumentMoniker": "PooClases\\Program.cs",
-              "ToolTip": "F:\\CURSO .NET\\Repos\\PooClases\\PooClases\\Program.cs",
-              "RelativeToolTip": "PooClases\\Program.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAAAIMAAAAgAAAA",
+              "DocumentMoniker": "F:\\CURSO .NET\\Repos\\SystemBank\\SystemBank\\Program.cs",
+              "RelativeDocumentMoniker": "SystemBank\\Program.cs",
+              "ToolTip": "F:\\CURSO .NET\\Repos\\SystemBank\\SystemBank\\Program.cs",
+              "RelativeToolTip": "SystemBank\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwDwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T23:11:14.684Z",
+              "WhenOpened": "2024-04-09T23:17:22.393Z",
               "EditorCaption": ""
             }
           ]
