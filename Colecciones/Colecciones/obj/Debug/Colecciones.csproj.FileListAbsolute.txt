@@ -1,0 +1,7 @@
+F:\CURSO .NET\Repos\Colecciones\Colecciones\bin\Debug\Colecciones.exe.config
+F:\CURSO .NET\Repos\Colecciones\Colecciones\bin\Debug\Colecciones.exe
+F:\CURSO .NET\Repos\Colecciones\Colecciones\bin\Debug\Colecciones.pdb
+F:\CURSO .NET\Repos\Colecciones\Colecciones\obj\Debug\Colecciones.csproj.AssemblyReference.cache
+F:\CURSO .NET\Repos\Colecciones\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+F:\CURSO .NET\Repos\Colecciones\Colecciones\obj\Debug\Colecciones.exe
+F:\CURSO .NET\Repos\Colecciones\Colecciones\obj\Debug\Colecciones.pdb
